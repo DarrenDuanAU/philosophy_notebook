@@ -1,4 +1,4 @@
-# 后果主义 (Consequentialism) & 绝对主义 (Categorical)
+# 后果主义 (Consequentialism) & 绝对主义 (Categorical Ethics)
 
 - **后果主义**：判断行为是否道德的标准是行为产生的后果，认为道德价值完全取决于行为的结果。
 
